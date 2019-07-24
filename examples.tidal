@@ -5,6 +5,8 @@ hush
 
 d1 silence
 
+d4 silence
+
 d2 $ slow 2 $ s "casio [casio*2] ~ ~" # speed "<0.4 0.6>"
 
 d3 $ sound ((cat ["can*8", "[cp*4 sn*4, jvbass*16]"] ))

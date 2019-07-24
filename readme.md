@@ -27,6 +27,12 @@ Note that the stack.yaml is using nightly-2018-12-01 which is ghc-8.6.2.  To pop
 stack build --resolver=lts-12.20
 ```
 
+SuperCollider
+
+```
+/Applications/SuperCollider/SuperCollider.app/Contents/MacOS/sclang ~/tidal-stack/start.scd
+```
+
 emacs
 ---
 
